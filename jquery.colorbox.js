@@ -10,10 +10,10 @@
 	// See http://jacklmoore.com/colorbox for details.
 	defaults = {
 		transition: "elastic",
-		speed: 300,
-		fadeOut: 300,
+		speed: 200,
+		fadeOut: 200,
 		width: false,
-		initialWidth: "600",
+		initialWidth: "500",
 		innerWidth: false,
 		maxWidth: false,
 		height: false,
@@ -30,7 +30,7 @@
 		href: false,
 		title: false,
 		rel: false,
-		opacity: 0.9,
+		opacity: 1.9,
 		preloading: true,
 		className: false,
 
