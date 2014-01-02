@@ -503,3 +503,7 @@ Files Changed: jquery.colorbox.js, jquery.colorbox-min.js
 
 ### Version 1.0 - March 03 2009
 * First release
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/glix/colorbox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
